@@ -1,70 +1,79 @@
 // $grey-100: #eee;
 
 $light-theme: (
-    background-body: #fff,
-    background-body-tertiary : #f8f9fa,
+    background-body: #ffffff,
+    background-body-tertiary: #f8fafc,
 
-    scroll-track-background: "#fff",
-    scroll-thumb-background: "#ccc",
-    scroll-thumb-hover: "#9e9e9e",
+    scroll-track-background: "#ffffff",
+    scroll-thumb-background: "#cbd5e1",
+    scroll-thumb-hover: "#94a3b8",
 
-    brand-name-100: black,
-    brand-name-200: black,
-    brand-social:#4762f8,
+    brand-name-100: #0f172a,
+    brand-name-200: #2563eb,
+    brand-social: #2563eb,
 
-    border-hero-right: #eee,
-    background-hero-right: "linear-gradient(to right, #fff, #eee)",
-    border-top-hero-right: "linear-gradient(to right, transparent, #fff, #fff, transparent)",
+    border-hero-right: #dbeafe,
+    background-hero-right: "linear-gradient(to right, #ffffff, #eff6ff)",
+    border-top-hero-right: "linear-gradient(to right, transparent, #2563eb, #06b6d4, transparent)",
 
-    text-red-500: #f96f73,
-    text-yellow-500: #fa9348,
-    text-green-500: #b6f9d2,
-    text-green-700: #56b10e,
-    text-pink-100: #ec4899,
-    text-pink-200: #bd21b8,
-    text-blue-100: #1dd2ec,
+    text-red-500: #ef4444,
+    text-yellow-500: #f59e0b,
+    text-green-500: #22c55e,
+    text-green-700: #15803d,
+
+    text-pink-100: #2563eb,
+    text-pink-200: #0ea5e9,
+    text-blue-100: #06b6d4,
+
     text-white: #000,
 
-    line-blue-500: #1a1443,
-    resize-button: "linear-gradient(to right, #ec4899, #8b5cf6)",
-    glow-card-background: #f5f6f7,
-    skill-card-background: #f5f6f7,
-    border-top-skill-card: "linear-gradient(to right, transparent, #fff, #fff, transparent)",
+    line-blue-500: #2563eb,
 
+    resize-button: "linear-gradient(90deg,#1d4ed8 0%,#2563eb 35%,#0ea5e9 70%,#06b6d4 100%)",
 
+    glow-card-background: #f8fbff,
+    skill-card-background: #f8fbff,
+
+    border-top-skill-card: "linear-gradient(to right, transparent, #2563eb, #06b6d4, transparent)",
 );
 
 $dark-theme: (
-    background-body: #0d1224,
-    background-body-tertiary : transparent,
-    scroll-track-background: "#0d1224",
-    scroll-thumb-background: "#606060",
-    scroll-thumb-hover: "#d6d6d6",
-    brand-name-100: #16f2b3,
-    brand-name-200: #ec4899,
-    brand-social: #ec4899,
+    background-body: #0b1120,
+    background-body-tertiary: transparent,
 
-    border-hero-right: #1b2c68a0,
-    background-hero-right: "linear-gradient(to right, #0d1224, #0a0d37)",
-    border-top-hero-right: "linear-gradient(to right, transparent, #ec4899, #8b5cf6, transparent)",
+    scroll-track-background: "#0b1120",
+    scroll-thumb-background: "#475569",
+    scroll-thumb-hover: "#94a3b8",
 
-    text-red-500: #f96f73,
-    text-yellow-500: #fa9348,
-    text-green-500: #b6f9d2,
-    text-green-700: #56b10e,
-    text-pink-100: #ec4899,
-    text-pink-200: #bd21b8,
-    text-blue-100: #1dd2ec,
-    text-white: #fff,
+    brand-name-100: #38bdf8,
+    brand-name-200: #06b6d4,
+    brand-social: #3b82f6,
 
-    line-blue-500: #1a1443,
-    resize-button: "linear-gradient(to right, #ec4899, #8b5cf6)",
+    border-hero-right: #1e3a8a,
 
-    glow-card-background: #101123,
-    skill-card-background: #11152c,
-    border-top-skill-card: "linear-gradient(to right, transparent,#8b5cf6, #8b5cf6, transparent)",
+    background-hero-right: "linear-gradient(to right,#0b1120,#111827)",
 
+    border-top-hero-right: "linear-gradient(to right, transparent,#2563eb,#06b6d4,transparent)",
 
+    text-red-500: #ef4444,
+    text-yellow-500: #f59e0b,
+    text-green-500: #22c55e,
+    text-green-700: #16a34a,
+
+    text-pink-100: #3b82f6,
+    text-pink-200: #0ea5e9,
+    text-blue-100: #22d3ee,
+
+    text-white: #ffffff,
+
+    line-blue-500: #2563eb,
+
+    resize-button: "linear-gradient(90deg,#1d4ed8 0%,#2563eb 35%,#0ea5e9 70%,#06b6d4 100%)",
+
+    glow-card-background: #111827,
+    skill-card-background: #111827,
+
+    border-top-skill-card: "linear-gradient(to right, transparent,#2563eb,#06b6d4,transparent)",
 );
 
 :root {
