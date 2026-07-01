@@ -6,9 +6,9 @@ import reactImg from 'assets/project/react-js.png';
 // import springRestImg from '../assets/project/spring-rest.png';
 
 export const APP_DATA = {
-    YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
-    TIKTOK_URL: "https://www.tiktok.com/@hoidanit",
-    UDEMY_URL: "https://www.udemy.com/user/eric-7039/",
+    // YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
+    TIKTOK_URL: "https://www.tiktok.com/@hoag_phuc?is_from_webapp=1&sender_device=pc",
+    // UDEMY_URL: "https://www.udemy.com/user/eric-7039/",
     FACEBOOK_URL: "https://www.facebook.com/hp3111/"
 }
 
