@@ -1,6 +1,6 @@
 // import nestImg from '../assets/project/nestjs.png';
 // import nextjsImg from '../assets/project/nextjs.jpeg';
-import reactNativeImg from '../assets/project/react-native.png';
+import reactImg from 'assets/project/react-js.png';
 // import reactUltimateImg from '../assets/project/react-ultimate.png';
 // import springMvcImg from '../assets/project/spring-mvc.png';
 // import springRestImg from '../assets/project/spring-rest.png';
@@ -9,7 +9,7 @@ export const APP_DATA = {
     YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
     TIKTOK_URL: "https://www.tiktok.com/@hoidanit",
     UDEMY_URL: "https://www.udemy.com/user/eric-7039/",
-    FACEBOOK_URL: "https://www.facebook.com/askITwithERIC/"
+    FACEBOOK_URL: "https://www.facebook.com/hp3111/"
 }
 
 export const EXPERIENCES = [
@@ -64,7 +64,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
     {
         id: 1,
-        imgPath: reactNativeImg,
+        imgPath: reactImg,
         title: "React PHGo JS",
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         githubLink: "https://github.com/HPhuc311/PHGo_Web.git",
